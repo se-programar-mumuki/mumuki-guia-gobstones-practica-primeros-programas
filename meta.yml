@@ -1,0 +1,17 @@
+---
+name: Práctica Primeros Programas
+locale: es
+type: practice
+beta: false
+language: gobstones
+id_format: "%05d"
+order:
+- 900
+- 1000
+- 1100
+- 1401
+- 1200
+- 1402
+- 1403
+- 1400
+private: false
