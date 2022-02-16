@@ -17,7 +17,3 @@ _¡Necesitamos podar este jardín!_
 Guille se dedica a la jardinería y, aunque no sabemos bien por qué, piensa que nuestro tablero es un jardín, mejor hagámosle caso así no se enoja.
 
 > Con el cabezal en el origen, creá un programa que se encargue de "podar" el tablero de la imagen: sacar todas las bolitas verdes. Al finalizar, el cabezal debe terminar donde empezó.
-
-Si todavía no conocés todas las posibles devoluciones de tus ejercicios mirá este video:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Bxw7Ft9gIfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
